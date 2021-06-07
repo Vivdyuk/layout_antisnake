@@ -1,4 +1,4 @@
-report({
+{
   "testSuite": "BackstopJS",
   "tests": [
     {
@@ -170,4 +170,4 @@ report({
       "status": "pass"
     }
   ]
-});
+}
